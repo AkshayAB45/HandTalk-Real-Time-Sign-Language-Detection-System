@@ -1,0 +1,1 @@
+# HandTalk scripts package

@@ -1,0 +1,6 @@
+# Trained model files are saved here after running 3_train_model.py
+# handtalk_model.pkl   — Random Forest classifier
+# label_encoder.pkl    — Scikit-learn LabelEncoder
+# confusion_matrix.png — Evaluation heatmap
+# feature_importance.png
+# cv_scores.png

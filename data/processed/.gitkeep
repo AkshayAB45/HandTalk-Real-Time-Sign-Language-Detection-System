@@ -1,0 +1,2 @@
+# This directory stores the processed landmarks CSV.
+# Run python 2_preprocess_data.py to generate landmarks.csv

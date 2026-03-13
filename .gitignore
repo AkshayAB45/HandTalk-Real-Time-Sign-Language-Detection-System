@@ -1,0 +1,34 @@
+# HandTalk .gitignore
+
+# Large data files
+data/raw/
+data/processed/landmarks.csv
+
+# Trained models
+models/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Output plots (optional — keep or remove)
+# models/*.png
